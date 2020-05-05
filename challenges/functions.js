@@ -19,7 +19,10 @@ let add = function(dispute1, dispute2) {
   return dispute1 + dispute2;
 } 
 
-let add = function(dispute1, dispute2) {
+let multiply = function(dispute1, dispute2) {
+  return dispute1 * dispute2;
+} 
+ add = function(dispute1, dispute2) {
   return dispute1 * dispute2;
 }
 
